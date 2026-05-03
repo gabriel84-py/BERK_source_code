@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fb0918ed-45ee-468c-8714-79f8837306a3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/sources/aruco.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/aruco_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/exports/erreur_moyenne_20260502_194311.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/exports/erreur_temps_20260502_194445.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/exports/stabilite_20260502_194510.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/exports/trajectoire_20260502_194523.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/graphes_gen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/pico.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/robot_data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/SECURITY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/environment.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/figures/Improvement_vs_FPS.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/hubconf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/midas/backbones/beit.py" beforeDir="false" afterPath="$PROJECT_DIR$/Model/model/backbones/beit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/midas/backbones/levit.py" beforeDir="false" afterPath="$PROJECT_DIR$/Model/model/backbones/levit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/midas/backbones/next_vit.py" beforeDir="false" afterPath="$PROJECT_DIR$/Model/model/backbones/next_vit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/midas/backbones/swin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Model/model/backbones/swin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/midas/backbones/swin2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Model/model/backbones/swin2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/midas/backbones/swin_common.py" beforeDir="false" afterPath="$PROJECT_DIR$/Model/model/backbones/swin_common.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/midas/backbones/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/Model/model/backbones/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/midas/backbones/vit.py" beforeDir="false" afterPath="$PROJECT_DIR$/Model/model/backbones/vit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/midas/base_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/Model/model/base_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/midas/blocks.py" beforeDir="false" afterPath="$PROJECT_DIR$/Model/model/blocks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/midas/dpt_depth.py" beforeDir="false" afterPath="$PROJECT_DIR$/Model/model/dpt_depth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/midas/midas_net.py" beforeDir="false" afterPath="$PROJECT_DIR$/Model/model/midas_net.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/midas/midas_net_custom.py" beforeDir="false" afterPath="$PROJECT_DIR$/Model/model/midas_net_custom.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/midas/model_loader.py" beforeDir="false" afterPath="$PROJECT_DIR$/Model/model/model_loader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/midas/transforms.py" beforeDir="false" afterPath="$PROJECT_DIR$/Model/model/transforms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/EXPLORE_THE_CODE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/androidTest/assets/fox-mobilenet_v1_1.0_224_support.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/androidTest/assets/fox-mobilenet_v1_1.0_224_task_api.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/androidTest/java/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/androidTest/java/org/tensorflow/lite/examples/classification/ClassifierTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/java/org/tensorflow/lite/examples/classification/CameraActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/java/org/tensorflow/lite/examples/classification/CameraConnectionFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/java/org/tensorflow/lite/examples/classification/ClassifierActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/java/org/tensorflow/lite/examples/classification/LegacyCameraConnectionFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/java/org/tensorflow/lite/examples/classification/customview/AutoFitTextureView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/java/org/tensorflow/lite/examples/classification/customview/OverlayView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/java/org/tensorflow/lite/examples/classification/customview/RecognitionScoreView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/java/org/tensorflow/lite/examples/classification/customview/ResultsView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/java/org/tensorflow/lite/examples/classification/env/BorderedText.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/java/org/tensorflow/lite/examples/classification/env/ImageUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/java/org/tensorflow/lite/examples/classification/env/Logger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/res/drawable-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/res/drawable-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/res/drawable-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/res/drawable-xxhdpi/icn_chevron_down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/res/drawable-xxhdpi/icn_chevron_up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/res/drawable-xxhdpi/tfl2_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/res/drawable-xxhdpi/tfl2_logo_dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/res/drawable/bottom_sheet_bg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/res/drawable/ic_baseline_add.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/res/drawable/ic_baseline_remove.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/res/drawable/rectangle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/res/layout/tfe_ic_activity_camera.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/res/layout/tfe_ic_camera_connection_fragment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/res/layout/tfe_ic_layout_bottom_sheet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/lib_support/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/lib_support/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/lib_support/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/lib_support/src/main/java/org/tensorflow/lite/examples/classification/tflite/Classifier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/lib_support/src/main/java/org/tensorflow/lite/examples/classification/tflite/ClassifierFloatEfficientNet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/lib_support/src/main/java/org/tensorflow/lite/examples/classification/tflite/ClassifierFloatMobileNet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/lib_support/src/main/java/org/tensorflow/lite/examples/classification/tflite/ClassifierQuantizedEfficientNet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/lib_support/src/main/java/org/tensorflow/lite/examples/classification/tflite/ClassifierQuantizedMobileNet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/lib_task_api/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/lib_task_api/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/lib_task_api/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/lib_task_api/src/main/java/org/tensorflow/lite/examples/classification/tflite/Classifier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/lib_task_api/src/main/java/org/tensorflow/lite/examples/classification/tflite/ClassifierFloatEfficientNet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/lib_task_api/src/main/java/org/tensorflow/lite/examples/classification/tflite/ClassifierFloatMobileNet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/lib_task_api/src/main/java/org/tensorflow/lite/examples/classification/tflite/ClassifierQuantizedEfficientNet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/lib_task_api/src/main/java/org/tensorflow/lite/examples/classification/tflite/ClassifierQuantizedMobileNet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/models/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/models/download.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/models/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/models/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/models/src/main/assets/labels.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/models/src/main/assets/labels_without_background.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/models/src/main/assets/run_tflite.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/ios/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/ios/Midas.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/ios/Midas.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/ios/Midas.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/ios/Midas.xcodeproj/project.xcworkspace/xcuserdata/admin.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/ios/Midas.xcodeproj/xcuserdata/admin.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/ios/Midas/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/ios/Midas/Assets.xcassets/AppIcon.appiconset/100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/ios/Midas/Assets.xcassets/AppIcon.appiconset/1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/ios/Midas/Assets.xcassets/AppIcon.appiconset/114.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/ios/Midas/Assets.xcassets/AppIcon.appiconset/120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/ios/Midas/Assets.xcassets/AppIcon.appiconset/144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/ios/Midas/Assets.xcassets/AppIcon.appiconset/152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/ios/Midas/Assets.xcassets/AppIcon.appiconset/167.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/ios/Midas/Assets.xcassets/AppIcon.appiconset/180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/ios/Midas/Assets.xcassets/AppIcon.appiconset/20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/ios/Midas/Assets.xcassets/AppIcon.appiconset/29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/ios/Midas/Assets.xcassets/AppIcon.appiconset/40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/ios/Midas/Assets.xcassets/AppIcon.appiconset/50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/ios/Midas/Assets.xcassets/AppIcon.appiconset/57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/ios/Midas/Assets.xcassets/AppIcon.appiconset/58.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/ios/Midas/Assets.xcassets/AppIcon.appiconset/60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/ios/Midas/Assets.xcassets/AppIcon.appiconset/72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/ios/Midas/Assets.xcassets/AppIcon.appiconset/76.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/ios/Midas/Assets.xcassets/AppIcon.appiconset/80.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/ios/Midas/Assets.xcassets/AppIcon.appiconset/87.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/ios/Midas/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/ios/Midas/Assets.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/ios/Midas/Assets.xcassets/tfl_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/ios/Midas/Camera Feed/CameraFeedManager.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/ios/Midas/Camera Feed/PreviewView.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/ios/Midas/Cells/InfoCell.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/ios/Midas/Constants.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/ios/Midas/Extensions/CGSizeExtension.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/ios/Midas/Extensions/CVPixelBufferExtension.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/ios/Midas/Extensions/TFLiteExtension.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/ios/Midas/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/ios/Midas/ModelDataHandler/ModelDataHandler.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/ios/Midas/Storyboards/Base.lproj/Launch Screen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/ios/Midas/Storyboards/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/ios/Midas/ViewControllers/ViewController.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/ios/Midas/Views/OverlayView.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/ios/Podfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/ios/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/mobile/ios/RunScripts/download_models.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/ros/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/ros/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/ros/additions/do_catkin_make.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/ros/additions/downloads.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/ros/additions/install_ros_melodic_ubuntu_17_18.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/ros/additions/install_ros_noetic_ubuntu_20.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/ros/additions/make_package_cpp.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/ros/launch_midas_cpp.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/ros/midas_cpp/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/ros/midas_cpp/launch/midas_cpp.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/ros/midas_cpp/launch/midas_talker_listener.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/ros/midas_cpp/package.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/ros/midas_cpp/scripts/listener.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/ros/midas_cpp/scripts/listener_original.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/ros/midas_cpp/scripts/talker.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/ros/midas_cpp/src/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/ros/run_talker_listener_test.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/Model/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/tf/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/tf/input/.placeholder" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/tf/make_onnx_model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/tf/output/.placeholder" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/tf/run_onnx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/tf/run_pb.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/tf/transforms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/tf/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sources/dist_capt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sources/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/sources/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sources/motors.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="223" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;gabriel84-py&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/gabriel84-py/berk.git&quot;,
+    &quot;accountId&quot;: &quot;432b9d24-ef1d-4b88-9e67-1b3ce4fc5208&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="3BhXnNJnZgvTI2iuAVXmYjGtGQm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.aruco.executor": "Run",
+    "Python.dico.executor": "Run",
+    "Python.dist_capt.executor": "Run",
+    "Python.graphes_gen.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.motors.executor": "Run",
+    "Python.s21_exo2.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/Users/gabrieljeanvermeille/PycharmProjects/Berk",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dico-dicho" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MiDaS/weights" />
+      <recent name="$PROJECT_DIR$/MiDaS" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-b63d5a1f7c97-b61e75351b1f-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.22158.340" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb0918ed-45ee-468c-8714-79f8837306a3" name="Changes" comment="" />
+      <created>1774942441604</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774942441604</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
