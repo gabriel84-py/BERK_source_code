@@ -1,4 +1,4 @@
-# 🤖 BERK — Robot Autonome de Localisation
+# BERK — Robot Autonome de Localisation
 
 > **B**ot d'**E**xploration avec **R**epérage par fusion de capteurs et vision par ordinateur
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 📖 Présentation
+## Présentation
 
 BERK est un robot autonome capable d'estimer sa position en temps réel dans un environnement inconnu, en combinant **quatre méthodes de localisation** :
 
@@ -25,7 +25,7 @@ BERK est un robot autonome capable d'estimer sa position en temps réel dans un 
 
 ---
 
-## 🏗️ Architecture matérielle
+## Architecture matérielle
 
 ```
 ┌────────────────────────────────────────────┐
@@ -55,7 +55,7 @@ BERK est un robot autonome capable d'estimer sa position en temps réel dans un 
 
 ---
 
-## 🧠 Méthodes de localisation
+## Méthodes de localisation
 
 ### 1. Odométrie
 Estimation de position à partir des encodeurs magnétiques des moteurs.
@@ -102,7 +102,7 @@ La **prédiction** est fournie par l'odométrie (erreur ≈ 13 cm²).
 
 ---
 
-## 📁 Structure du projet
+## Structure du projet
 
 ```
 berk/
@@ -121,7 +121,7 @@ berk/
 
 ---
 
-## 🚀 Installation & Démarrage
+## Installation & Démarrage
 
 ### Prérequis
 
@@ -145,7 +145,7 @@ L'interface web est accessible sur `http://<ip-du-robot>:8000`
 
 ---
 
-## 🖥️ Interface Web
+## Interface Web
 
 L'interface (FastAPI + HTML/JS) permet de :
 
@@ -170,7 +170,7 @@ L'interface (FastAPI + HTML/JS) permet de :
 
 ---
 
-## 📊 Analyse des données
+## Analyse des données
 
 Le script `graphes_gen.py` génère 4 graphiques à partir de `robot_data.json` :
 
@@ -201,7 +201,7 @@ Le repère est matérialisé au sol avec des bandes adhésives sur surface plane
 
 ---
 
-## ⚠️ Limites connues
+## Limites connues
 
 - Mesures réelles effectuées manuellement (incertitude humaine ~0,5 cm)
 - Seulement 5 essais par méthode (conditions peu contrôlées)
@@ -210,7 +210,7 @@ Le repère est matérialisé au sol avec des bandes adhésives sur surface plane
 
 ---
 
-## 🙏 Remerciements
+## Remerciements
 
 - [Fondation Raspberry Pi](https://www.raspberrypi.org/) — accessibilité de l'électronique
 - [MicroPython](https://micropython.org/) — firmware Pico
@@ -220,7 +220,7 @@ Le repère est matérialisé au sol avec des bandes adhésives sur surface plane
 
 ---
 
-## 👥 Auteurs
+## Auteurs
 
 **Projet BERK** — Gabriel Jean Vermeille, Amine Akachar, Timoté Jaga Bouhamouche
 
@@ -228,6 +228,6 @@ Le repère est matérialisé au sol avec des bandes adhésives sur surface plane
 
 ---
 
-## 📄 Licence
+## Licence
 
 Ce projet est distribué sous licence **GPL v3+** — voir [LICENSE.md](LICENSE.md).
